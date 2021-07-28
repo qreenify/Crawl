@@ -1,18 +1,14 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class MainMenuButton : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void OnEnable()
     {
-        
+        Time.timeScale = 0;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OnDisable()
     {
-        
+        Time.timeScale = 1;
     }
 }

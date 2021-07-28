@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9b6e24c1ac34677a0221def36a9b394, type: 3}
+  m_Name: Hand
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 11400000, guid: 57c2ada756ddbdc4f8c0ff1b24501e45, type: 2}
+  - {fileID: 11400000, guid: 57c2ada756ddbdc4f8c0ff1b24501e45, type: 2}
+  - {fileID: 11400000, guid: 25eade15a7847c5429ef47c7f1ee8a20, type: 2}
+  - {fileID: 11400000, guid: 25eade15a7847c5429ef47c7f1ee8a20, type: 2}
+  - {fileID: 11400000, guid: c8c0bf23c98f16241979a6320f54f72f, type: 2}
+  - {fileID: 11400000, guid: c8c0bf23c98f16241979a6320f54f72f, type: 2}
+  - {fileID: 11400000, guid: 3286825554ec4e347b88273c38c8b0fe, type: 2}
+  - {fileID: 11400000, guid: 3286825554ec4e347b88273c38c8b0fe, type: 2}
+  - {fileID: 11400000, guid: 088fe28c924dc12499aab5dabfb49c37, type: 2}
+  - {fileID: 11400000, guid: e21be26bc2fc61c42973bdd4f7b2d7f2, type: 2}

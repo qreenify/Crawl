@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9277e32ad631af409666acd0ace2b1a, type: 3}
+  m_Name: Dryhump
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: b644fd98d1ae5b44885d3c081c0af6d4, type: 3}
+  rageCost: 10
+  rageGain: 20
+  damage: 0
+  damageTaken: 30
+  rageRequirement: 0
+  description: 'Dryhump your opponents leg and get a lot of rage, although the opponent
+    might like it. '
