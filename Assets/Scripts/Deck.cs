@@ -18,7 +18,6 @@ public class Deck : MonoBehaviour
 
     private void Awake()
     {
-        DontDestroyOnLoad(gameObject);
         Cards = new List<CardInfo>();
     }
 

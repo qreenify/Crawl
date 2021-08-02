@@ -7,16 +7,16 @@ using UnityEngine.UI;
 
 public class Card : MonoBehaviour, IPointerDownHandler, IDragHandler, IBeginDragHandler, IEndDragHandler
 {
-    private RectTransform rectTransform;
-    private Canvas canvas;
-    private CanvasGroup canvasGroup;
-    
     [SerializeField] private Image art;
     [SerializeField] private Text rageCost;
     [SerializeField] private Text cardName;
     [SerializeField] private Text description;
-
     public CardInfo cardInfo;
+    
+    RectTransform rectTransform;
+    Canvas canvas;
+    CanvasGroup canvasGroup;
+    private Vector2 position;
     
     public Action OnCardDrawn;
     public Action OnCardPlayed;
@@ -33,7 +33,6 @@ public class Card : MonoBehaviour, IPointerDownHandler, IDragHandler, IBeginDrag
         canvas = FindObjectOfType<Canvas>();
         canvasGroup = GetComponent<CanvasGroup>();
     }
-    
     public override string ToString()
     {
         StringBuilder sb = new StringBuilder();
@@ -41,29 +40,26 @@ public class Card : MonoBehaviour, IPointerDownHandler, IDragHandler, IBeginDrag
         sb.Append("Cost: " +cardInfo.rageCost);
         return sb.ToString();
     }
-    
     public void OnPointerDown(PointerEventData eventData)
     {
         Debug.Log($"{cardName} has been clicked on");
+        position = rectTransform.position;
     }
-    
     public void OnBeginDrag(PointerEventData eventData)
     {
         Debug.Log("Dragging Started");
         canvasGroup.blocksRaycasts = false;
         canvasGroup.alpha = 0.5f;
     }
-    
     public void OnDrag(PointerEventData eventData)
     {
         Debug.Log($"{cardName} is being dragged");
-        //transform.position = Input.mousePosition;
         rectTransform.anchoredPosition += eventData.delta / canvas.scaleFactor;
     }
-
     public void OnEndDrag(PointerEventData eventData)
     {
         canvasGroup.blocksRaycasts = true;
         canvasGroup.alpha = 1f;
+        rectTransform.position = position;
     }
 }
