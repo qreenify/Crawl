@@ -7,6 +7,6 @@ public class PlayButton : MonoBehaviour
 {
     public void Play()
     {
-        GetComponentInParent<Scene>()
+        GetComponentInParent<Scene>();
     }
 }
