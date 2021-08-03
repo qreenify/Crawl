@@ -20,33 +20,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e270e6a3-c127-4905-8b65-e3b2a93b1a82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Animation.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player standing still.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player standing still.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/Player.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/Anim2.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/Anim2/anim2.meta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/Anim2/anim2.meta.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/barbarian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/barbarian.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/barbarian1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/barbarian1.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/barbarian2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/barbarian2.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/barbarian3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/barbarian3.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/anim2.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/5.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/7.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/Anim1/ANim3/8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GUI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Crawl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Crawl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/barbarian.psd" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Arts/1charactersforanimation/characters/barbarian/barbarian.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Card.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Card.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Deck.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Deck.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/Player standing still.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/Player standing still.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Card.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Deck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Deck.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Card.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Card.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Card.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardCollection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/CardCollection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardCollection.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/CardCollection.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/CardInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CardInfo.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/CardInfo.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Deck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Deck.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Deck.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Deck.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ExitMainMenuButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/ExitMainMenuButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ExitMainMenuButton.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/ExitMainMenuButton.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Inventory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Inventory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Inventory.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Inventory.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Item.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Item.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Item.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Item.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainMenuButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/MainMenuButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainMenuButton.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/MainMenuButton.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/PlayButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayButton.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/PlayButton.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/QuitButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/QuitButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/QuitButton.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/QuitButton.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RestartButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/RestartButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RestartButton.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/RestartButton.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SoundButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/SoundButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SoundButton.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/SoundButton.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Stats.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Stats.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Stats.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Stats.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TimePlayed.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/TimePlayed.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TimePlayed.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/TimePlayed.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +86,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Card.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/CardInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Card.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -74,6 +103,9 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuButton.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Card.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Deck.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Stats.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GUI/PlayButton.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vZifaI8396b2FFSDjEAsPED9Is" />
@@ -132,7 +164,7 @@
       <workItem from="1626803963709" duration="2995000" />
       <workItem from="1627030694500" duration="2408000" />
       <workItem from="1627119322943" duration="10338000" />
-      <workItem from="1627460673212" duration="6939000" />
+      <workItem from="1627460673212" duration="9079000" />
     </task>
     <servers />
   </component>
