@@ -488,7 +488,6 @@ GameObject:
   m_Component:
   - component: {fileID: 8741237593505291249}
   - component: {fileID: 812442128}
-  - component: {fileID: 2847123922149865008}
   - component: {fileID: 222587246904560606}
   - component: {fileID: 103647231204817410}
   m_Layer: 5
@@ -539,27 +538,6 @@ MonoBehaviour:
   cardName: {fileID: 1514774197395372245}
   description: {fileID: 3688793260632483030}
   cardInfo: {fileID: 11400000, guid: 57c2ada756ddbdc4f8c0ff1b24501e45, type: 2}
---- !u!223 &2847123922149865008
-Canvas:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5541720733899689283}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_RenderMode: 2
-  m_Camera: {fileID: 0}
-  m_PlaneDistance: 100
-  m_PixelPerfect: 0
-  m_ReceivesEvents: 1
-  m_OverrideSorting: 0
-  m_OverridePixelPerfect: 0
-  m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 0
-  m_SortingLayerID: 0
-  m_SortingOrder: 0
-  m_TargetDisplay: 0
 --- !u!225 &222587246904560606
 CanvasGroup:
   m_ObjectHideFlags: 0

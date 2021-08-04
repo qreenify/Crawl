@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 892671344546271463}
   - component: {fileID: 892671344546271462}
   - component: {fileID: 892671344546271457}
-  - component: {fileID: 4248936702716051262}
   m_Layer: 0
   m_Name: MainCanvas
   m_TagString: Untagged
@@ -105,21 +104,6 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!114 &4248936702716051262
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 892671344546271456}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 765fef4ea0784b2c9f9f9fb88dfeb86c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sceneName: MainScene
-  mode: 1
-  onAwake: 1
 --- !u!1001 &384190431473639203
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -743,11 +727,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2131715584300383417, guid: d733ad8af56f21c46a52a460adbd8514, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 148.1055
+      value: -513
       objectReference: {fileID: 0}
     - target: {fileID: 2131715584300383417, guid: d733ad8af56f21c46a52a460adbd8514, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 73.68994
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 2131715584300383417, guid: d733ad8af56f21c46a52a460adbd8514, type: 3}
       propertyPath: m_LocalPosition.z

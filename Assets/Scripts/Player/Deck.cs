@@ -49,13 +49,13 @@ public class Deck : MonoBehaviour
         }
     }
     
-    public ICollection<CardInfo> DrawStartingHand(int cardCount)
+    public ICollection<CardInfo> DrawStartingHand(short cardCount)
     {
         if(!_initialized)
             Initialize();
         
         var result = new List<CardInfo>();
-        for (int i = 0; i < cardCount; i++)
+        for (short i = 0; i < cardCount; i++)
         {
             var random = Random.Range(0, Cards.Count);
             result.Add(Cards[random]);
