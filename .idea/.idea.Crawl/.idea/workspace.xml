@@ -20,28 +20,209 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e270e6a3-c127-4905-8b65-e3b2a93b1a82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/RageBar.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Animation/RageBar.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/PlayerHealth.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/PlayerHealth.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/PlayerRage.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/PlayerRage.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/HealthBar.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/HealthBar.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStats.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/RageBar.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Player/RageBar.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_03.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_04.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_04.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_05.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_05.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_06.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_07.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_07.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_08.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_09.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_09.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_10.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_11.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_12.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_12.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_13.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_14.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_14.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_15.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_15.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_16.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_16.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_17.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_17_a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_17_a.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_18.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_18.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_19.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_20.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_20.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_21.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_21.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_22.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_22.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_23.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_24.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_25.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_25.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_26.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_26.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_27.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_27.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_28.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_28.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_29.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_29.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_30.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_30.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_31.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_32.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_33.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_34.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_34.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_35.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_35.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_36.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_37.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_38.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_39.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_39.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_40.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_41.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_42.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_42.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_43.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_44.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_44.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_45.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_46.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_46.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_47.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Arts/Icons for map/r_47.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/PlayButton.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/PlayButton.prefab.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Crawl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Crawl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Card.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Card.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/MainCanvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/MainCanvas.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_04.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_04.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_05.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_05.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_07.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_07.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_08.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_09.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_09.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_12.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_12.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_14.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_14.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_15.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_15.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_16.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_16.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_17.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_17_a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_17_a.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_18.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_18.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_19.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_20.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_20.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_21.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_21.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_22.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_22.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_23.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_24.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_25.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_25.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_26.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_26.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_27.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_27.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_28.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_28.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_29.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_29.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_30.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_30.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_31.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_32.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_33.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_34.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_34.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_35.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_35.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_36.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_37.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_38.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_39.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_39.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_40.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_41.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_42.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_42.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_43.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_44.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_44.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_45.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_46.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_46.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_47.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Arts/1spellbookmegapack/Flat_Skills_Icons/PNG/red/r_47.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StartScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StartScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GUI/PlayButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GUI/PlayButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Card.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Card.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Deck.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Deck.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStats.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +235,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/CardInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Card.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADFA4B62-4008-4918-9388-DF71C9E26E89/cb/74278d01/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -72,13 +255,14 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/Stats.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/SceneLoader.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GUI/PlayButton.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GUI/HealthBar.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Deck.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/HealthBar.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/RageBar.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStats.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Deck.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Card.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GUI/PlayButton.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vZifaI8396b2FFSDjEAsPED9Is" />
@@ -137,7 +321,7 @@
       <workItem from="1626803963709" duration="2995000" />
       <workItem from="1627030694500" duration="2408000" />
       <workItem from="1627119322943" duration="10338000" />
-      <workItem from="1627460673212" duration="16587000" />
+      <workItem from="1627460673212" duration="23472000" />
     </task>
     <servers />
   </component>

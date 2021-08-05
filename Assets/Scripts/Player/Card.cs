@@ -22,6 +22,7 @@ public class Card : MonoBehaviour, IPointerDownHandler, IDragHandler, IBeginDrag
     public Action OnCardPlayed;
     public Action OnCardDiscarded;
     public Action OnCardExhausted;
+    
     void Start()
     {
         rageCost.text = cardInfo.rageCost.ToString();
@@ -33,6 +34,22 @@ public class Card : MonoBehaviour, IPointerDownHandler, IDragHandler, IBeginDrag
         canvas = FindObjectOfType<Canvas>();
         canvasGroup = GetComponent<CanvasGroup>();
     }
+
+    private void OnEnable()
+    {
+        OnCardDiscarded += OnDiscarded;
+    }
+
+    private void OnDestroy()
+    {
+        OnCardDiscarded -= OnDiscarded;
+    }
+
+    void OnDiscarded()
+    {
+        Debug.Log("Card Discarded");
+    }
+    
     public override string ToString()
     {
         StringBuilder sb = new StringBuilder();
@@ -43,6 +60,7 @@ public class Card : MonoBehaviour, IPointerDownHandler, IDragHandler, IBeginDrag
     public void OnPointerDown(PointerEventData eventData)
     {
         Debug.Log($"{cardName} has been clicked on");
+        
         position = rectTransform.position;
     }
     public void OnBeginDrag(PointerEventData eventData)
@@ -61,5 +79,6 @@ public class Card : MonoBehaviour, IPointerDownHandler, IDragHandler, IBeginDrag
         canvasGroup.blocksRaycasts = true;
         canvasGroup.alpha = 1f;
         rectTransform.position = position;
+        GetComponentInChildren<Image>().color = Color.gray;
     }
 }
