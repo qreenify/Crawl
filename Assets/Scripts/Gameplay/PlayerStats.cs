@@ -25,11 +25,6 @@ namespace Gameplay
 
             private void Update()
             {
-                if (Input.GetKeyDown(KeyCode.Space))
-                {
-                    TakeDamage(10);
-                }
-
                 if (Input.GetKeyDown(KeyCode.R))
                 {
                     GetRage(10);
@@ -40,7 +35,7 @@ namespace Gameplay
             {
                 if (currentRage == 100)
                 {
-                    rageBar.SetRage(currentRage += -100);
+                    rageBar.SetRage(currentRage += -110);
                     Debug.Log(currentRage + " currentRage over 100");
                 }
                 currentRage += rage;
